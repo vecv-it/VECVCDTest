@@ -2,7 +2,7 @@ pipeline {
 
   environment {
     //registry = "192.168.1.81:5000/justme/myweb"
-    registry = "https://jp.icr.io/vecvinternal"
+    registry = "https://jp.icr.io/vecvinternal/vecvtest"
     dockerImage = ""
   }
 
