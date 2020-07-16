@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: jp.icr.io/vecvinternal/vecvtest/myweb:1
+      - image: us.icr.io/protechprod/myweb:1
         imagePullPolicy: Always
         name: myweb
 
